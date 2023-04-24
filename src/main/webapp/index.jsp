@@ -1,11 +1,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
-</head>
+    <title>Home</title>
+    <%@ include file="WEB-INF/header.jsp" %>
 <body>
-hello
-<a href="/companies">Companies</a>
-<a href="/employees">Employees</a>
 </body>
 </html>
